@@ -1,3 +1,3 @@
 ### Content:
 - Restful API : CRUD API using **Mongooes**
-- Upload (single/multi) file (image and video) using **cloudinary**
+- File: Upload (single/multi) image and video, delete file using **cloudinary**
